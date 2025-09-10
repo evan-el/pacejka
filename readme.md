@@ -13,7 +13,7 @@ make
 ./run_example
 ```
 
-## References: 
+## References
 [1] Tyre and Vehicle Dynamics 2nd. ed., Hans B. Pacejka, p. 172-191.
 
 ## TODO
